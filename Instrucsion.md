@@ -27,3 +27,4 @@
  del <filename>
  ~~~
   
+ # Как добавлять картинки в Markdown. 
